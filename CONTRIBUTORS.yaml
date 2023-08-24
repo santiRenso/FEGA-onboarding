@@ -83,6 +83,12 @@ jmenglund:
     orcid: 0000-0003-1688-7112
     elixir_node: se
 
+kkochel:
+    name: Krzysztof Kochel
+    email: krzysztof.kochel@biol.uni.lodz.pl
+    orcid: 0009-0006-0772-3916
+    elixir_node:
+
 lauportell:
     name: Laura Portell Silva
     email: laura.portell@bsc.es
