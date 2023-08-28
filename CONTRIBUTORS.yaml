@@ -89,6 +89,12 @@ lauportell:
     orcid: 0000-0003-0390-3208
     elixir_node: es
 
+lgadelha:
+    name: Luiz Gadelha
+    email: luiz.gadelha@dkfz-heidelberg.de
+    orcid: 0000-0002-8122-9522
+    elixir_node: de
+    
 lilachic:
     name: Liisa Lado-Villar
     email: liisa.lado-villar@csc.fi
