@@ -127,6 +127,12 @@ m-casado:
     orcid: 0000-0002-7747-6256
     elixir_node: embl
 
+nanjiangshu:
+    name: Nanjiang Shu
+    email: nanjiang.shu@scilifelab.se
+    orcid: 0000-0002-3537-2387
+    elixir_node: se
+
 silviabah:
     name: Silvia Bahena Hernandez
     email: sbahena@ebi.ac.uk
