@@ -61,12 +61,17 @@ Recommended file formats for:
 
 The following resources represent EGA and community guidelines for submitted metadata:
 - <a href="https://web3.ega-archive.org/metadata/validation/metadata-schema/" target="_blank">EGA metadata model</a>
-- Recommended ontologies to search for concepts and terms at the **Ontology Look-up Service** (<a href="https://www.ebi.ac.uk/ols/" target="_blank">OLS</a>):
+- General FEGA standards
+  - <a href="https://youtu.be/U6ilhM-XOhU" target="_blank">Introduction to metadata</a> video produced by CSC
+  - <a href="https://youtu.be/0anBkJbF7XY" target="_blank">Introduction to phenotypic data</a> video produced by CSC
+- Community-specific FEGA standards
+  - <a href="https://zenodo.org/record/4893222" target="_blank">COVID-19 metadata mapping model</a> across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)
+  - <a href="https://docs.google.com/spreadsheets/d/1RXrJIzHKkyB8qx5tHLQjcBioiDAOrQ3odAuqMS3pUUI/edit#gid=549383528" target="_blank">COVID-19 Host Genetics Initiative data dictionary</a>
+  - <a href="https://youtu.be/AInMx8xj_Lk" target="_blank">Phenotypic metadata: the COVID-19 example</a> video produced by CSC
+  - <a href="https://youtu.be/josXa1CydxA" target="_blank">Building a metadata model for COVID-19</a> video produced by CSC
+- Recommended ontologies to search for concepts and terms using the **Ontology Look-up Service** (<a href="https://www.ebi.ac.uk/ols/" target="_blank">OLS</a>)
   - **Experimental Factor Ontology** (EFO): <a href="https://www.ebi.ac.uk/ols/ontologies/efo" target="_blank">ontology record</a> at OLS; EFO <a href="https://github.com/EBISPOT/efo" target="_blank">GitHub repository</a>.
   - **Data Use Conditions** (DUO): <a href="https://www.ebi.ac.uk/ols/ontologies/duo" target="_blank">ontology record</a> at OLS; DUO <a href="https://github.com/EBISPOT/DUO" target="_blank">GitHub repository</a>.
-- Community-specific standards:
-  - <a href="https://zenodo.org/record/4893222" target="_blank">COVID-19 metadata mapping model across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)</a>
-  - <a href="https://docs.google.com/spreadsheets/d/1RXrJIzHKkyB8qx5tHLQjcBioiDAOrQ3odAuqMS3pUUI/edit#gid=549383528" target="_blank">COVID-19 Host Genetics Initiative data dictionary</a>
 
 ### Quality control
 
