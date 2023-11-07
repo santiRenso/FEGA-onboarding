@@ -39,11 +39,11 @@ Understand more about the current <a href="https://zenodo.org/record/4893063" ta
 
 ### Organisation
 
-Here is described the <a href="https://ega-archive.org/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a>. Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsibilities of each type of node.
+Here is described the <a href="https://ega-archive.org/assets/files/EGA-Federation-Structure-v1.1.pdf" target="_blank">Federated EGA Structure and Organisation</a>. Federated EGA is broadly organised into two main types of nodes: Central EGA nodes (maintained by EMBL-EBI and CRG) and Federated EGA nodes (maintained at national or regional levels). Read the document linked above to learn more about the roles and responsibilities of each type of node.
 
 Federated EGA is governed by two permanent committees:
-- The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
-- The **Federated EGA Operations Committee** <a href="https://ega-archive.org/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> reviews operational performance and coordinates technical implementation roadmaps of the Federated EGA. The Committee receives advice from and provides operational reporting to the Federated EGA Strategic Committee.
+- The **Federated EGA Strategic Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Strategic-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> provides direction and strategic planning for the Federated EGA. The Committee receives input from the Central EGA Strategic Committee and provides feedback for the EGA strategic roadmap.
+- The **Federated EGA Operations Committee** <a href="https://ega-archive.org/assets/files/ToR-Federated-EGA-Operations-Committee-v1.1.pdf" target="_blank">(Terms of Reference)</a> reviews operational performance and coordinates technical implementation roadmaps of the Federated EGA. The Committee receives advice from and provides operational reporting to the Federated EGA Strategic Committee.
 
 Additional **Federated EGA Working Groups** are established, as needed. Working groups can be initiated from either of the Committee.
 
@@ -57,7 +57,7 @@ Inclusion in the Federated EGA is codified by signing of the <a href="https://dr
 
 ### Data Processing Agreement (DPA)
 
-As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://ega-archive.org/files/EGA_Data_Processing_Agreement_v1.1.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
+As Central EGA is a Data Processor under GDPR definitions, all data submitters are required to agree to and sign the <a href="https://legacy.ega-archive.org/files/EGA_Data_Processing_Agreement_v1.3.pdf" target="_blank">EGA Data Processing Agreement</a>. Federated EGA nodes also acting as Data Processors will require a similar agreement outline the roles and responsibilities of Data Processors, Data Controllers, and Data Requestors.
 
 ### Data Protection and Impact Analysis (DPIA)
 
@@ -65,7 +65,7 @@ Coming soon!
 
 ### Node Operations Guidelines
 
-The <a href="https://ega-archive.org/files/EGA-Node-Operations-v2.pdf" target="_blank"> FEGA Node Operations Guidelines </a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
+The <a href="https://ega-archive.org/assets/files/EGA-Node-Operations-v2.pdf" target="_blank"> FEGA Node Operations Guidelines </a> document gives an overview of the operational areas which require resources in order to establish and operate a Federated EGA node. The document is based on more than 10 years experience of establishing and operating the EMBL-EBI and CRG Central EGA nodes. It provides a breakdown of the operational areas of responsibility into Helpdesk Services, Technical Operations, Software Development, and IT Infrastructure.
 
 ## 3. Complete steps to join Federated EGA
 

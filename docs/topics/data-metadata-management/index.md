@@ -24,7 +24,7 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 
 ## 1. Learn about data security best practices
 
-Central EGA has a <a href="https://ega-archive.org/files/European_Genome_phenome_Archive_Security_Overview.pdf" target="_blank">Security Strategy</a> which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the <a href="https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/2016May10_REV_SecInfrastructure.pdf" target="_blank">GA4GH Security Technology Infrastructure document</a>, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the <a href="https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/Privacy-and-Security-Policy.pdf" target="_blank">GA4GH Privacy and Security Policy</a>.
+Central EGA has a <a href="https://ega-archive.org/assets/files/European_Genome_phenome_Archive_Security_Overview.pdf" target="_blank">Security Strategy</a> which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the <a href="https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/2016May10_REV_SecInfrastructure.pdf" target="_blank">GA4GH Security Technology Infrastructure document</a>, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the <a href="https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/Privacy-and-Security-Policy.pdf" target="_blank">GA4GH Privacy and Security Policy</a>.
 
 Summary of best practices recommended for Federated EGA nodes:
 
