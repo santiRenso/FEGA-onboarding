@@ -90,3 +90,6 @@ This website is part of a project that has received funding from the European Un
 
 <img src="./assets/img/eu-logo.jpeg" alt="EU flag." width="100"  align="left" />
 
+<br/><br/>
+<br/><br/>
+
