@@ -76,13 +76,17 @@ You can use the <a href="https://inab.github.io/fega-mm/" target="_blank">Federa
 
 There is no time limit on establishing a Federated EGA Node. Onboarding will take more or less time depending on existing infrastructure and governance models, availability of funding and resources, user needs, and other factors.
 
+## License
+
+The content of the FEGA onboarding materials and website are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution Share Alike 4.0 International License</a>.
+
 ## Acknowledgements
 
 We would like to thank all contributors, especially those mentioned in the <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTORS.yaml" target="_blank">Contributors list</a>, the Federated EGA community for their support, and our funding partners.
 
 Please see our <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTING.md" target="_blank">contributing guide</a> for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
 
-## License
+This website is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 871075.
 
-The content of the FEGA onboarding materials and website are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution Share Alike 4.0 International License</a>.
+<img src="./docs/assets/img/eu-logo.jpeg" alt="EU flag." width="100"  align="left" />
 
