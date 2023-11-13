@@ -88,5 +88,5 @@ Please see our <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main
 
 This website is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 871075.
 
-<img src="./docs/assets/img/eu-logo.jpeg" alt="EU flag." width="100"  align="left" />
+<img src="./assets/img/eu-logo.jpeg" alt="EU flag." width="100"  align="left" />
 
