@@ -83,7 +83,9 @@ Hear more details about node implementations:
 - <a href="https://www.youtube.com/watch?v=eEoKmMKGCc4" target="_blank">Norway, Sweden, and Finland FEGA node architecture and implementations</a> (19 June 2020)
 - <a href="https://www.youtube.com/watch?v=DSd_UJyqoGU" target="_blank">Further details on the Norwegian node</a> (19 June 2020)
 
-Engage in FEGA discussions happening with existing and interested FEGA nodes within the ELIXIR Federated Human Data (FHD) Community by joining the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") and attending the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a>.
+### Node experiences
+
+TODO
 
 ## 3. Evaluate your implementation
 
@@ -95,4 +97,4 @@ Engage in FEGA discussions happening with existing and interested FEGA nodes wit
 
 ## 4. What's next?
 
-Coming soon!
+To hear up-to-date progress of FEGA and discussions with existing and interested FEGA nodes in the ELIXIR Federated Human Data (FHD) Community, join the <a href="https://elixir-europe.org/intranet/join-groups" target="_blank">ELIXIR FHD Mailing List</a> (select "Human Data") and attend the <a href="https://docs.google.com/document/d/10OwVvHbJ7i1gI1Iw4zmVsOs8kDrG077Y52juehiFcmU/edit" target="_blank">ELIXIR FHD Community Calls</a>.
