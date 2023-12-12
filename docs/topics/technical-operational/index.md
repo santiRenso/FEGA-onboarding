@@ -87,6 +87,12 @@ Hear more details about node implementations:
 
 TODO
 
+<details>
+	<summary>Click to expand</summary>
+	Long content here
+	and here
+</details>
+
 ## 3. Evaluate your implementation
 
 - Understand the domains in which a node matures using the [Federated EGA Maturity Model](../maturity-model/)
