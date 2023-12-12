@@ -87,6 +87,8 @@ Hear more details about node implementations:
 
 TODO
 
+(works only in markdown, not in GH pages)
+
 <details>
 
 <summary>Tips for collapsed sections</summary>
@@ -102,6 +104,19 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+(should also wok in GH pages)
+
+{::options parse_block_html="true" /}
+
+<details><summary markdown="span">Expand me!</summary>
+
+   Some text here
+   
+</details>
+<br/>
+
+{::options parse_block_html="false" /}
 
 ## 3. Evaluate your implementation
 
