@@ -108,7 +108,6 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
 
 </details>
-<br>
 
 <details>
   <summary><strong>Selecting submission pilots - FEGA Finland</strong></summary>
@@ -130,6 +129,28 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   TODO<br><br>
 
 </details>
+
+<details>
+  <summary><strong>Establishing data processing agreements with data controllers - FEGA Sweden</strong></summary>
+  <br>
+  <h4>What did we do?</h4>
+  
+  TODO<br><br>
+
+  <h4>What went well?</h4>
+  
+  TODO<br><br>
+
+  <h4>What could have gone better?</h4>
+  
+  TODO<br><br>
+
+  <h4>What did we learn?</h4>
+  
+  TODO<br><br>
+
+</details>
+
 <br>
 
 ## 3. Evaluate your implementation
