@@ -189,6 +189,7 @@ One general rehearsal was then performed a few days before the actual event. The
   Should have started earlier with a clear decision on which organisation will be Service Provider, and not delay this crucial point too late in/after the technical development.<br><br>
 
 </details>
+<br>
 
 #### Selecting submission pilots
 <details>
@@ -230,6 +231,7 @@ One general rehearsal was then performed a few days before the actual event. The
   
   Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
 </details>
+<br>
 
 #### Establishing data processing agreements with data controllers 
 <details>
@@ -270,6 +272,7 @@ One general rehearsal was then performed a few days before the actual event. The
   
   General data processing agreements may require the node to develop additional operating procedures. If the data providing organization must sign a data processing agreement whenever a new dataset is deposited at the node, this will make it obvious who the data controller is for that dataset. If a general processing agreement is used instead, the node’s local helpdesk will have to verify the data controller by other means.<br><br>
 </details>
+<br>
 
 #### Setting up the node's website
 <details>
@@ -290,7 +293,6 @@ One general rehearsal was then performed a few days before the actual event. The
   <h5>What did we learn?</h5>
   
   Learning a tool like Quarto felt like a good investment if you want to quickly create a nice-looking and highly configurable website. We also learnt that the software <a href="https://posit.co/download/rstudio-desktop/" target="_blank">RStudio Desktop</a> works well for maintaining the markdown files.<br><br>
-
 </details>
 
 <br>
