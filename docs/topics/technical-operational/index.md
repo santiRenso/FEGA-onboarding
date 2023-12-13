@@ -267,6 +267,34 @@ One general rehearsal was then performed a few days before the actual event. The
   Learning a tool like Quarto felt like a good investment if you want to quickly create a nice-looking and highly configurable website. We also learnt that the software <a href="https://posit.co/download/rstudio-desktop/" target="_blank">RStudio Desktop</a> works well for maintaining the markdown files.<br><br>
 
 </details>
+-----
+<details>
+  <summary><strong>Shaping up the FEGA node to prepare for production - FEGA Norway</strong></summary>
+  <br>
+  <h5>What did we do?</h5>
+  
+  For many years we worked on technical solutions at the software level and a growing feeling in our ELIXIR node was emerging, we are not progressing satisfactory towards a production state. Lately, much more guidance is available on a path towards such a goal, in particular how to join the FEGA network and how your node should communicate and interact with the FEGA entities/committees to join. But not that much on how to organize your node internally to best meet the FEGA requirements, and hence this experience sharing is a key factor for us in this process.<br><br>
+
+  <h5>What went well?</h5>
+  
+  After having most of the technical solutions in place and tested, we answered the question “which organization shall be the Service Provider” and hence a key legal entity in the operations. Fixating this single decision, made it possible to know exactly which organisation’s internal procedures and internal functions we had to relate to when adhering to GDPR, when developing many of the centrally required assets to progress towards a production-level node:
+    <ul>
+    <li>ROS</li>
+    <li>DPIA</li>
+    <li>DPA</li>
+    <li>SOPs (referred to in the 3 above)  </li>
+  </ul>
+<br><br>
+
+  <h5>What could have gone better?</h5>
+  
+  Having a better overview from the start would have helped us plan better our time, and improved communication with the right people.<br><br>
+
+  <h5>What did we learn?</h5>
+  
+  Should have started earlier with a clear decision on which organisation will be Service Provider, and not delay this crucial point too late in/after the technical development.<br><br>
+
+</details>
 <br>
 
 ## 3. Evaluate your implementation
