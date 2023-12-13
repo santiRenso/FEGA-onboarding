@@ -91,7 +91,7 @@ Click a title below to read more about node experiences in the FEGA onboarding j
 #### Setting up and performing the end-to-end demonstrator
 <details>
   <summary><strong>FEGA Finland</strong></summary>
-  <br>
+  Author(s): FEGA Finland<br>
   <h5>What did we do?</h5>
   
   We planned the submission in advance and created a scripted framework to guide us throughout the process.<br><br>
@@ -111,7 +111,7 @@ Click a title below to read more about node experiences in the FEGA onboarding j
 </details>
 <details>
   <summary><strong>FEGA Poland</strong></summary>
-  <br>
+  Author(s): Krzysztof Kochel<br>
   <h5>What did we do?</h5>
   
   After we had established a test environment and validated success stories our Help Desk team started to pass user journeys described in the "Federated EGA node end-to-end demonstrator". Each ambiguity or understatement was written down and sent to the appropriate person in the CEGA Help Desk case to clarify. When we had confirmed that members of Help Desk understood each step of each journey, we performed several trials with fresh accounts. This approach allowed us to detect issues which a new user may encounter.<br><br>
