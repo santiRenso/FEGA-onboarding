@@ -108,7 +108,7 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
 
 </details>
-
+<br>
 <details>
   <summary><strong>Selecting submission pilots - FEGA Finland</strong></summary>
   <br>
@@ -124,7 +124,7 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   
   One of the primary challenges we encountered was the lack of a clearly defined timeline or the frequent postponement of timelines throughout the pilot. This uncertainty created significant frustration for both the researchers and our team. Researchers, whose careers and funding were contingent on the pilot’s progress, found it especially challenging to understand why the process was often delayed. The absence of a predictable timeline made it difficult for us to manage expectations effectively and communicate transparently about project milestones and progress. In hindsight, having a more structured and consistent timeline could have mitigated these issues and improved the overall experience for all parties involved.<br><br>
 
-  <h4>What did we learn?</h4>
+  <h5>What did we learn?</h5>
   
   The overall experience was positive, and it served as a valuable learning opportunity for our team. However, reflecting on our experience, we recognize that there were areas where we could have improved. Better planning and coordination across the nodes, as well as with the central EGA, would have greatly benefited the pilot. Aligning timelines and needs between all parties involved, including researchers, the FEGA nodes, and the central EGA, could have led to a more streamlined and efficient process. In hindsight, leveraging the operation committee could have played a pivotal role in addressing challenges collectively and finding solutions collaboratively, aligning our efforts more effectively and ensuring smoother and more productive collaborations.<br><br>
 
@@ -135,19 +135,19 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   <br>
   <h5>What did we do?</h5>
   
-  TODO<br><br>
+  In order to process personal data in Sweden you must comply with the EU General Data Protection Regulation (GDPR). Since the Swedish FEGA node is formally hosted by Uppsala University, this means that a data processing agreement is needed whenever data comes from a different legal entity. To make it easier for Swedish researchers to submit data, the node decided to set up general data processing agreements with the country’s major universities.<br><br>
 
   <h5>What went well?</h5>
   
-  TODO<br><br>
+  When a researcher wants to submit data to the Swedish node, he or she generally doesn’t need to sign a separate data processing agreement with Uppsala university, which would have been needed if there were no general data processing agreements. Because the node has used the same template for all its general data processing agreements, all the agreements now basically look the same.<br><br>
 
   <h5>What could have gone better?</h5>
   
-  TODO<br><br>
+  It took the node several years to sign agreements with all the major Swedish universities. The reason for this was mainly the discussions that needed to happen with the legal experts at the different universities. It is hard to say what the node could have done differently.<br><br>
 
   <h5>What did we learn?</h5>
   
-  TODO<br><br>
+  General data processing agreements may require the node to develop additional operating procedures. If the data providing organization must sign a data processing agreement whenever a new dataset is deposited at the node, this will make it obvious who the data controller is for that dataset. If a general processing agreement is used instead, the node’s local helpdesk will have to verify the data controller by other means.<br><br>
 
 </details>
 
