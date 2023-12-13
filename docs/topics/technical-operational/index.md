@@ -88,7 +88,7 @@ Hear more details about node implementations:
 Click a title below to read more about node experiences in the FEGA onboarding journey!
 
 <details>
-  <h3><summary>Selecting submission pilots - FEGA Sweden</summary></h3>
+  <summary><strong></strong>Selecting submission pilots - FEGA Sweden</summary></summary>
   <br>
   <h4>What did we do?</h4>
   
