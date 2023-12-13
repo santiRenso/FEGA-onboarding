@@ -89,20 +89,22 @@ TODO
 
 <details>
   <summary>Title - Node</summary>
+
+  #### What did we do?
   
-  ```markdown
-  Heading
+  Content here...  
 
-  content
+  #### What went well?
+  
+  Content here...  
 
-  Heading
+  #### What could have gone better?
+  
+  Content here...  
 
-  content
-
-  Heading
-
-  content
-  ```
+  #### What did we learn?
+  
+  Content here...  
 
 </details>
 
