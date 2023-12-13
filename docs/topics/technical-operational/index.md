@@ -92,19 +92,19 @@ TODO
 
   #### What did we do?
   
-  Content here...  
+  Content here...<br>
 
   #### What went well?
   
-  Content here...  
+  Content here...<br>
 
   #### What could have gone better?
   
-  Content here...  
+  Content here...<br>
 
   #### What did we learn?
   
-  Content here...  
+  Content here...<br>
 
 </details>
 
