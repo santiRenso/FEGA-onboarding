@@ -223,12 +223,14 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   
   We started to plan for our end-to-end demonstrator a couple of months before the actual event. During that time, the whole team worked hard to understand the steps and to identify technical and organizational issues that remained to be resolved. The planning resulted in the following:
 
-a play script for the node's actual demonstrator
-identified roles and named individuals to play the different roles
-a test dataset (no personal data) with made-up metadata
-text templates to use in the communication during the demonstrator
-instructions for the local helpdesk team
-
+  <ul>
+    <li>a play script for the node's actual demonstrator</li>
+    <li>identified roles and named individuals to play the different roles</li>
+    <li>a test dataset (no personal data) with made-up metadata</li>
+    <li>text templates to use in the communication during the demonstrator</li>
+    <li>instructions for the local helpdesk team</li>
+  </ul>
+  
 One general rehearsal was then performed a few days before the actual event. The actual demonstrator event took place on a single day in January 2022.
 <br><br>
 
@@ -242,7 +244,7 @@ One general rehearsal was then performed a few days before the actual event. The
 
   <h5>What did we learn?</h5>
   
-  It is important to start the planning for the demonstrator well in time before the event. Take inspiration from other nodes to see how they are thinking and which solutions they have. Establish a dialogue early with central EGA -- their feedback is critical for success.<br><br>
+  It is important to start the planning for the demonstrator well in time before the event. Take inspiration from other nodes to see how they are thinking and which solutions they have. Establish a dialogue early with central EGA - their feedback is critical for success.<br><br>
 
 </details>
 
