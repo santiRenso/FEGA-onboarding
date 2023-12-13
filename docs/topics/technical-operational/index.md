@@ -89,24 +89,21 @@ TODO
 
 <details>
   <summary>Title - Node</summary>
-
-  #### What did we do?
-
-  Content here...
-
-  #### What went well?
-
-  Content here...
-
-  #### What could have gone better?
-
-  Content here...
-
-  #### What did we learn?
-
-  Content here...
-
   
+  ```markdown
+  Heading
+
+  content
+
+  Heading
+
+  content
+
+  Heading
+
+  content
+  ```
+
 </details>
 
 ## 3. Evaluate your implementation
