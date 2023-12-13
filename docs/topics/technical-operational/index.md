@@ -85,10 +85,10 @@ Hear more details about node implementations:
 
 ### Node experiences
 
-Click a title below to read more about node experiences in the FEGA onboarding journey!
+Click a title below to expand and read more about node experiences in the FEGA onboarding journey!
 
 <details>
-  <summary><strong></strong>Selecting submission pilots - FEGA Sweden</summary></summary>
+  <summary><strong></strong>Selecting submission pilots - FEGA Sweden</strong></summary>
   <br>
   <h4>What did we do?</h4>
   
@@ -108,6 +108,7 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
 
 </details>
+<br>
 
 ## 3. Evaluate your implementation
 
