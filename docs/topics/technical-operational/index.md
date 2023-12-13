@@ -88,11 +88,11 @@ Hear more details about node implementations:
 TODO
 
 <details>
-  <summary><h3>Selecting submission pilots - FEGA Sweden</h3></summary><br>
-  
+  <summary><h3>Selecting submission pilots - FEGA Sweden</h3></summary>
+  <br>
   <h4>What did we do?</h4>
   
-  The Swedish node selected [SweGen](https://www.nature.com/articles/ejhg2017130) as its first submission pilot project a few years before the federation was officially established. This project was chosen because staff at the Swedish ELIXIR node had been engaged in it and because the data was considered a good genomic reference for the Swedish population.<br><br>
+  The Swedish node selected <a href="https://www.nature.com/articles/ejhg2017130" target="_blank">SweGen</a> as its first submission pilot project a few years before the federation was officially established. This project was chosen because staff at the Swedish ELIXIR node had been engaged in it and because the data was considered a good genomic reference for the Swedish population.<br><br>
   To avoid relying on a single pilot dataset, the node eventually decided to engage with two additional projects. At that point, the node had gained a better understanding of what a good pilot project could look like. A few candidates were selected among projects that had expressed interest in depositing data at the node. Semi-structured interviews were then held with two candidate projects before they were officially selected. The local helpdesk team (at the time consisting of only two persons) was responsible for the selection process, but the final decision was made at FEGA node’s management level.<br><br>
 
   <h4>What went well?</h4>
