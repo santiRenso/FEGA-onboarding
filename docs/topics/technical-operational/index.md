@@ -87,25 +87,27 @@ Hear more details about node implementations:
 
 TODO
 
-TEST1
-
 <details>
-  <summary>Click to expand</summary>
+  <summary>Title - Node</summary>
 
-  Your expandable content goes here. It can include both Markdown and HTML.
+  #### What did we do?
 
-  ```markdown
-  ## Example Markdown content
-  - Bullet point 1
-  - Bullet point 2
-```
-  <!-- You can also include HTML content -->
-  <div>
-    <p>This is an example HTML content inside the expandable box.</p>
-  </div>
+  Content here...
+
+  #### What went well?
+
+  Content here...
+
+  #### What could have gone better?
+
+  Content here...
+
+  #### What did we learn?
+
+  Content here...
+
+  
 </details>
-
-TEST2
 
 ## 3. Evaluate your implementation
 
