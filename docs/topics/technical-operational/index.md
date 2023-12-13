@@ -91,8 +91,7 @@ Click on a node below to read more about their experiences in the FEGA onboardin
 #### Setting up and performing the end-to-end demonstrator
 <details>
   <summary><strong>FEGA Finland</strong></summary>
-  Author(s): FEGA Finland<br>
-  
+  Author(s): FEGA Finland<br><br>
   <h5>What did we do?</h5>
   
   We planned the submission in advance and created a scripted framework to guide us throughout the process.<br><br>
@@ -131,7 +130,7 @@ Click on a node below to read more about their experiences in the FEGA onboardin
 </details>
 <details>
   <summary><strong>FEGA Sweden</strong></summary>
-  <br>
+  Author(s): Mattias Strömberg and Markus Englund<br><br>
   <h5>What did we do?</h5>
   
   We started to plan for our end-to-end demonstrator a couple of months before the actual event. During that time, the whole team worked hard to understand the steps and to identify technical and organizational issues that remained to be resolved. The planning resulted in the following:
@@ -165,7 +164,7 @@ One general rehearsal was then performed a few days before the actual event. The
 #### Shaping up the FEGA node to prepare for production
 <details>
   <summary><strong>FEGA Norway</strong></summary>
-  <br>
+  Author(s): Kjell Petersen<br><br>
   <h5>What did we do?</h5>
   
   For many years we worked on technical solutions at the software level and a growing feeling in our ELIXIR node was emerging, we are not progressing satisfactory towards a production state. Lately, much more guidance is available on a path towards such a goal, in particular how to join the FEGA network and how your node should communicate and interact with the FEGA entities/committees to join. But not that much on how to organize your node internally to best meet the FEGA requirements, and hence this experience sharing is a key factor for us in this process.<br><br>
@@ -195,7 +194,7 @@ One general rehearsal was then performed a few days before the actual event. The
 #### Selecting submission pilots
 <details>
   <summary><strong>FEGA Finland</strong></summary>
-  <br>
+  Author(s): FEGA Finland<br><br>
   <h5>What did we do?</h5>
   
   The Finnish node's experience differed from the Swedish node's approach. In our case, we did not proactively choose a pilot project; instead, researchers and users approached us seeking specific services critical to publishing. These services were instrumental in enabling them to publish their research papers and secure funding for their ongoing studies. These researchers faced a unique challenge: while their dataset had been consented for research use and reuse, strict restrictions prevented its transfer outside of Finland. The Finnish Federated EGA service and their integration with CSC’s services (SD Apply and SD Desktop) played a pivotal role in overcoming this obstacle. By ensuring that no additional copies of the data were created and making it accessible only via a secure virtual desktop environment, Federated EGA became natural and often the only possible solution for the researchers. While we received inquiries from numerous research projects, we faced the challenge of managing expectations due to the absence of a clear timeline for the service availability. Consequently, we had to make difficult decisions and, unfortunately, had to decline some requests to ensure the effective allocation of our resources.<br><br>
@@ -214,7 +213,7 @@ One general rehearsal was then performed a few days before the actual event. The
 </details>
 <details>
   <summary><strong>FEGA Sweden</strong></summary>
-  <br>
+  Author(s): Markus Englund<br><br>
   <h5>What did we do?</h5>
   
   The Swedish node selected <a href="https://www.nature.com/articles/ejhg2017130" target="_blank">SweGen</a> as its first submission pilot project a few years before the federation was officially established. This project was chosen because staff at the Swedish ELIXIR node had been engaged in it and because the data was considered a good genomic reference for the Swedish population.<br><br>
@@ -237,7 +236,7 @@ One general rehearsal was then performed a few days before the actual event. The
 #### Establishing data processing agreements with data controllers 
 <details>
   <summary><strong>FEGA Finland</strong></summary>
-  <br>
+  Author(s): FEGA Finland<br><br>
   <h5>What did we do?</h5>
   
   In Finland, the Federated EGA is hosted by CSC - IT Center for Science. The landscape here is marked by a diversity of data controllers, predominantly from academic organizations, university hospitals, and biobanks. To streamline and facilitate the data submission process for researchers, we have initiated discussions with all data controllers involved to have standardized DPAs. The goal is to establish comprehensive DPAs that encompass the necessary legal requirements while simplifying the process for those wishing to deposit data with the Federated EGA. This collaborative approach aims to provide researchers with a smoother path for sharing their data within the boundaries of legal compliance.<br><br>
@@ -256,7 +255,7 @@ One general rehearsal was then performed a few days before the actual event. The
 </details>
 <details>
   <summary><strong>FEGA Sweden</strong></summary>
-  <br>
+  Author(s): Markus Englund<br><br>
   <h5>What did we do?</h5>
   
   In order to process personal data in Sweden you must comply with the EU General Data Protection Regulation (GDPR). Since the Swedish FEGA node is formally hosted by Uppsala University, this means that a data processing agreement is needed whenever data comes from a different legal entity. To make it easier for Swedish researchers to submit data, the node decided to set up general data processing agreements with the country’s major universities.<br><br>
@@ -278,7 +277,7 @@ One general rehearsal was then performed a few days before the actual event. The
 #### Setting up the node's website
 <details>
   <summary><strong>FEGA Sweden</strong></summary>
-  <br>
+  Author(s): Markus Englund<br><br>
   <h5>What did we do?</h5>
   
   We created a separate website for the Swedish node and its services. We decided to switch from Jekyll to <a href="https://quarto.org" target="_blank">Quarto</a>, which at the time was a fairly new tool for e.g. generating static websites.<br><br>
