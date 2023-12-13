@@ -87,36 +87,25 @@ Hear more details about node implementations:
 
 TODO
 
-(works only in markdown, not in GH pages)
+TEST1
 
 <details>
+  <summary>Click to expand</summary>
 
-<summary>Tips for collapsed sections</summary>
+  Your expandable content goes here. It can include both Markdown and HTML.
 
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
+  ```markdown
+  ## Example Markdown content
+  - Bullet point 1
+  - Bullet point 2
 ```
-
+  <!-- You can also include HTML content -->
+  <div>
+    <p>This is an example HTML content inside the expandable box.</p>
+  </div>
 </details>
 
-(should also wok in GH pages)
-
-{::options parse_block_html="true" /}
-
-<details><summary markdown="span">Expand me!</summary>
-
-   Some text here
-   
-</details>
-<br/>
-
-{::options parse_block_html="false" /}
+TEST2
 
 ## 3. Evaluate your implementation
 
