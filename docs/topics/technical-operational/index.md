@@ -159,6 +159,7 @@ One general rehearsal was then performed a few days before the actual event. The
   It is important to start the planning for the demonstrator well in time before the event. Take inspiration from other nodes to see how they are thinking and which solutions they have. Establish a dialogue early with central EGA - their feedback is critical for success.<br><br>
 
 </details>
+<br>
 
 #### Shaping up the FEGA node to prepare for production
 <details>
