@@ -87,6 +87,8 @@ Hear more details about node implementations:
 
 Click a title below to read more about node experiences in the FEGA onboarding journey!
 
+-----
+
 <details>
   <summary><strong>Selecting submission pilots - FEGA Sweden</strong></summary>
   <br>
@@ -171,6 +173,79 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   Our key takeaways encompass the critical importance of organizational support, the necessity of hiring or involving domain experts, and the strategic allocation of dedicated time and resources for efficient management of this process.<br><br>
 
 </details>
+-----
+<details>
+  <summary><strong>Setting up and performing the end-to-end demonstrator - FEGA Finland</strong></summary>
+  <br>
+  <h5>What did we do?</h5>
+  
+  We planned the submission in advance and created a scripted framework to guide us throughout the process.<br><br>
+
+  <h5>What went well?</h5>
+  
+  The demonstration itself proceeded smoothly, providing us with valuable insights and knowledge. During the submission, we made the decision to submit BAM files, even though we were not initially familiar with the process, and this decision allowed us to learn and understand the submission process better. Despite some challenges encountered while using the user interface to add the data, the overall experience was instructive and productive. Furthermore, our collaboration with other nodes who shared their scripts and resources significantly contributed to improving our demonstration and workflow. This exchange of knowledge and resources was instrumental in enhancing the overall success of the demonstration. Additionally, having the demonstrator take place simultaneously with other helpdesks was a positive aspect, providing a unique opportunity for practical collaboration and tasks that we don't typically engage in with other helpdesks. This shared experience fostered valuable interactions and enriched our collective understanding.<br><br>
+
+  <h5>What could have gone better?</h5>
+  
+  Our decision to submit BAM files, while valuable for learning, significantly complicated the demonstration and extended its duration over the entire day. Consequently, we ended up testing the technical workflow, helpdesk support, and collaboration with central EGA simultaneously, which could have been divided into distinct stages for a more manageable process. In hindsight, it might have been beneficial for all nodes to use the same script, facilitating smoother coordination and consistency across the demonstration.<br><br>
+
+  <h5>What did we learn?</h5>
+  
+  Our experience underscored the significance of expectation management, as the submitters participating in the demonstrator had to wait over a year before the service was in production. This delay has emphasized the importance of setting realistic expectations and timelines for project milestones and ensuring effective project management for a more efficient progression towards production.<br><br>
+
+</details>
+
+<details>
+  <summary><strong>Setting up and performing the end-to-end demonstrator - FEGA Poland</strong></summary>
+  <br>
+  <h5>What did we do?</h5>
+  
+  After we had established a test environment and validated success stories our Help Desk team started to pass user journeys described in the "Federated EGA node end-to-end demonstrator". Each ambiguity or understatement was written down and sent to the appropriate person in the CEGA Help Desk case to clarify. When we had confirmed that members of Help Desk understood each step of each journey, we performed several trials with fresh accounts. This approach allowed us to detect issues which a new user may encounter.<br><br>
+
+  <h5>What went well?</h5>
+  
+  Repeating all the journeys several times with fresh accounts allowed us to detect many issues which would lead to a failure of the final demo.<br><br>
+
+  <h5>What could have gone better?</h5>
+  
+  In some cases we misunderstood explanations. However, those cases were detected and corrected by meeting participants from the EGA side.<br><br>
+
+  <h5>What did we learn?</h5>
+  
+  We should point out all the edge cases and confirm with CEGA.<br><br>
+
+</details>
+
+<details>
+  <summary><strong>Setting up and performing the end-to-end demonstrator - FEGA Sweden</strong></summary>
+  <br>
+  <h5>What did we do?</h5>
+  
+  We started to plan for our end-to-end demonstrator a couple of months before the actual event. During that time, the whole team worked hard to understand the steps and to identify technical and organizational issues that remained to be resolved. The planning resulted in the following:
+
+a play script for the node's actual demonstrator
+identified roles and named individuals to play the different roles
+a test dataset (no personal data) with made-up metadata
+text templates to use in the communication during the demonstrator
+instructions for the local helpdesk team
+
+One general rehearsal was then performed a few days before the actual event. The actual demonstrator event took place on a single day in January 2022.
+<br><br>
+
+  <h5>What went well?</h5>
+  
+  The demonstrator event went smoothly without any major issues. It would probably not have been as successful without the meticulous planning and the strong engagement from the people at the node and at central EGA. We also had much help from other nodes, like the Norwegian node that for example shared a draft of their play script.<br><br>
+
+  <h5>What could have gone better?</h5>
+  
+  The systems we used in the demonstrator for communication and handling of the submission and data access request (e.g. email, Slack and Redmine) involved many manual steps. There might have been better systems, or we could have configured the systems differently. It was not ideal to have the general rehearsal only a few days before the event. We were lucky though that no major issues turned up. We recommend aiming for a rehearsal at least one week before the demonstrator. In the play script, we should have described the journeys from an end user's perspective already from the start.<br><br>
+
+  <h5>What did we learn?</h5>
+  
+  It is important to start the planning for the demonstrator well in time before the event. Take inspiration from other nodes to see how they are thinking and which solutions they have. Establish a dialogue early with central EGA -- their feedback is critical for success.<br><br>
+
+</details>
+
 <br>
 
 ## 3. Evaluate your implementation
