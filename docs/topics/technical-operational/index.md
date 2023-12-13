@@ -246,7 +246,27 @@ One general rehearsal was then performed a few days before the actual event. The
   It is important to start the planning for the demonstrator well in time before the event. Take inspiration from other nodes to see how they are thinking and which solutions they have. Establish a dialogue early with central EGA - their feedback is critical for success.<br><br>
 
 </details>
+-----
+<details>
+  <summary><strong>Establishing data processing agreements with data controllers - FEGA Sweden</strong></summary>
+  <br>
+  <h5>What did we do?</h5>
+  
+  We created a separate website for the Swedish node and its services. We decided to switch from Jekyll to <a href="https://quarto.org" target="_blank">Quarto</a>, which at the time was a fairly new tool for e.g. generating static websites.<br><br>
 
+  <h5>What went well?</h5>
+  
+  Using Quarto made it very easy for the helpdesk team to structure the website and fill it with content. All the pages were written in markdown, which also made the website easy to maintain. The website was hosted on GitHub pages with a GitHub action to render the website whenever new changes were incorporated into the main branch.<br><br>
+
+  <h5>What could have gone better?</h5>
+  
+  The helpdesk team spent a lot of time on developing the content of the website. A cookie-cutter template could have made it easier for us. We were also missing graphical guidelines for how to make the website align with other nodes’ websites (but still make it visually distinguishable from https://ega-archive.org).<br><br>
+
+  <h5>What did we learn?</h5>
+  
+  Learning a tool like Quarto felt like a good investment if you want to quickly create a nice-looking and highly configurable website. We also learnt that the software <a href="https://posit.co/download/rstudio-desktop/" target="_blank">RStudio Desktop</a> works well for maintaining the markdown files.<br><br>
+
+</details>
 <br>
 
 ## 3. Evaluate your implementation
