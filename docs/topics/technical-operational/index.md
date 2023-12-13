@@ -108,7 +108,7 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
 
 </details>
-<br>
+
 <details>
   <summary><strong>Selecting submission pilots - FEGA Finland</strong></summary>
   <br>
@@ -129,7 +129,7 @@ Click a title below to read more about node experiences in the FEGA onboarding j
   The overall experience was positive, and it served as a valuable learning opportunity for our team. However, reflecting on our experience, we recognize that there were areas where we could have improved. Better planning and coordination across the nodes, as well as with the central EGA, would have greatly benefited the pilot. Aligning timelines and needs between all parties involved, including researchers, the FEGA nodes, and the central EGA, could have led to a more streamlined and efficient process. In hindsight, leveraging the operation committee could have played a pivotal role in addressing challenges collectively and finding solutions collaboratively, aligning our efforts more effectively and ensuring smoother and more productive collaborations.<br><br>
 
 </details>
-
+-----
 <details>
   <summary><strong>Establishing data processing agreements with data controllers - FEGA Sweden</strong></summary>
   <br>
@@ -151,6 +151,26 @@ Click a title below to read more about node experiences in the FEGA onboarding j
 
 </details>
 
+<details>
+  <summary><strong>Establishing data processing agreements with data controllers - FEGA Finland</strong></summary>
+  <br>
+  <h5>What did we do?</h5>
+  
+  In Finland, the Federated EGA is hosted by CSC - IT Center for Science. The landscape here is marked by a diversity of data controllers, predominantly from academic organizations, university hospitals, and biobanks. To streamline and facilitate the data submission process for researchers, we have initiated discussions with all data controllers involved to have standardized DPAs. The goal is to establish comprehensive DPAs that encompass the necessary legal requirements while simplifying the process for those wishing to deposit data with the Federated EGA. This collaborative approach aims to provide researchers with a smoother path for sharing their data within the boundaries of legal compliance.<br><br>
+
+  <h5>What went well?</h5>
+  
+  In addition to supporting and receiving support from researchers throughout this process, we have also successfully raised awareness within their organizations. This proactive approach has allowed us to familiarize these entities with the legal requirements and processes of FEGA, including their involvement in establishing Data Access Committees (DACs) where necessary. By promoting a broader understanding of the service's operational framework and legal compliance, we've not only facilitated smoother interactions with researchers but also enhanced overall transparency and cooperation among the organizations involved.<br><br>
+
+  <h5>What could have gone better?</h5>
+  
+  The discussions with some experts and organizations proved challenging, primarily due to the diverse expertise required to address various aspects of the agreements. The need to navigate these complexities in a more streamlined manner became evident, and we recognize the importance of finding more efficient and structured ways to engage and collaborate with these experts in the future. Moreover, the uncertainty with the timelines also had an impact on the process. This uncertainty occasionally led to delays and hindered the pace of progress. Sharing best practices and experiences with our counterparts in other nodes might have provided valuable insights and strategies to address these challenges more effectively.<br><br>
+
+  <h5>What did we learn?</h5>
+  
+  Our key takeaways encompass the critical importance of organizational support, the necessity of hiring or involving domain experts, and the strategic allocation of dedicated time and resources for efficient management of this process.<br><br>
+
+</details>
 <br>
 
 ## 3. Evaluate your implementation
