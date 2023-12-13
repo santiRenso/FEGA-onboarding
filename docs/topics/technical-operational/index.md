@@ -85,10 +85,10 @@ Hear more details about node implementations:
 
 ### Node experiences
 
-TODO
+Click a title below to read more about node experiences in the FEGA onboarding journey!
 
 <details>
-  <summary><h3>Selecting submission pilots - FEGA Sweden</h3></summary>
+  <h3><summary>Selecting submission pilots - FEGA Sweden</summary></h3>
   <br>
   <h4>What did we do?</h4>
   
@@ -105,7 +105,7 @@ TODO
 
   <h4>What did we learn?</h4>
   
-  Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br>
+  Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
 
 </details>
 
