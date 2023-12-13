@@ -112,40 +112,40 @@ Click a title below to read more about node experiences in the FEGA onboarding j
 <details>
   <summary><strong>Selecting submission pilots - FEGA Finland</strong></summary>
   <br>
-  <h4>What did we do?</h4>
+  <h5>What did we do?</h5>
   
-  TODO<br><br>
+  The Finnish node's experience differed from the Swedish node's approach. In our case, we did not proactively choose a pilot project; instead, researchers and users approached us seeking specific services critical to publishing. These services were instrumental in enabling them to publish their research papers and secure funding for their ongoing studies. These researchers faced a unique challenge: while their dataset had been consented for research use and reuse, strict restrictions prevented its transfer outside of Finland. The Finnish Federated EGA service and their integration with CSC’s services (SD Apply and SD Desktop) played a pivotal role in overcoming this obstacle. By ensuring that no additional copies of the data were created and making it accessible only via a secure virtual desktop environment, Federated EGA became natural and often the only possible solution for the researchers. While we received inquiries from numerous research projects, we faced the challenge of managing expectations due to the absence of a clear timeline for the service availability. Consequently, we had to make difficult decisions and, unfortunately, had to decline some requests to ensure the effective allocation of our resources.<br><br>
 
-  <h4>What went well?</h4>
+  <h5>What went well?</h5>
   
-  TODO<br><br>
+  During our collaboration with one of the research groups in the pilot phase, we established effective communication channels, including face-to-face meetings, which allowed us to understand their specific needs better. These meetings proved invaluable as they facilitated comprehensive testing of data uploads, a process that sometimes-required additional support next to the technical documentation. We also worked closely with the researchers to establish legal agreements with the data controller, in this case, the university hospital. This partnership was crucial in navigating the legal complexities surrounding data usage. This specific study, involving single-cell RNA sequencing of human cells, posed minimal data size constraints, with data totalling approximately 20 GB. This relatively small dataset size, coupled with the absence of intricate phenotype data, simplified the data submission process and contributed to the overall success of our collaboration.<br><br>
 
-  <h4>What could have gone better?</h4>
+  <h5>What could have gone better?</h5>
   
-  TODO<br><br>
+  One of the primary challenges we encountered was the lack of a clearly defined timeline or the frequent postponement of timelines throughout the pilot. This uncertainty created significant frustration for both the researchers and our team. Researchers, whose careers and funding were contingent on the pilot’s progress, found it especially challenging to understand why the process was often delayed. The absence of a predictable timeline made it difficult for us to manage expectations effectively and communicate transparently about project milestones and progress. In hindsight, having a more structured and consistent timeline could have mitigated these issues and improved the overall experience for all parties involved.<br><br>
 
   <h4>What did we learn?</h4>
   
-  TODO<br><br>
+  The overall experience was positive, and it served as a valuable learning opportunity for our team. However, reflecting on our experience, we recognize that there were areas where we could have improved. Better planning and coordination across the nodes, as well as with the central EGA, would have greatly benefited the pilot. Aligning timelines and needs between all parties involved, including researchers, the FEGA nodes, and the central EGA, could have led to a more streamlined and efficient process. In hindsight, leveraging the operation committee could have played a pivotal role in addressing challenges collectively and finding solutions collaboratively, aligning our efforts more effectively and ensuring smoother and more productive collaborations.<br><br>
 
 </details>
 
 <details>
   <summary><strong>Establishing data processing agreements with data controllers - FEGA Sweden</strong></summary>
   <br>
-  <h4>What did we do?</h4>
+  <h5>What did we do?</h5>
   
   TODO<br><br>
 
-  <h4>What went well?</h4>
+  <h5>What went well?</h5>
   
   TODO<br><br>
 
-  <h4>What could have gone better?</h4>
+  <h5>What could have gone better?</h5>
   
   TODO<br><br>
 
-  <h4>What did we learn?</h4>
+  <h5>What did we learn?</h5>
   
   TODO<br><br>
 
