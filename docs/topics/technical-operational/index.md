@@ -248,7 +248,7 @@ One general rehearsal was then performed a few days before the actual event. The
 </details>
 -----
 <details>
-  <summary><strong>Establishing data processing agreements with data controllers - FEGA Sweden</strong></summary>
+  <summary><strong>Setting up the node's website - FEGA Sweden</strong></summary>
   <br>
   <h5>What did we do?</h5>
   
