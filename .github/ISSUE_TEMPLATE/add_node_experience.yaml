@@ -22,9 +22,17 @@ body:
         - FEGA Portugal
         - FEGA Spain
         - FEGA Sweden
-        - Other FEGA
+        - Other FEGA node (Please indicate your node below)
     validations:
       required: true
+
+  - type: input
+    id: new-fega-node
+    attributes:
+      label: New FEGA Node
+      description: If you selected "Other FEGA node" above, please indicate your node name here.
+    validations:
+      required: false 
 
   - type: dropdown
     id: experience-title
@@ -38,15 +46,15 @@ body:
         - Setting up the node’s website
         - Setting up and performing the end-to-end demonstrator
         - Shaping up the FEGA node to prepare for production
-        - Other (Please add a title below)
+        - Other title (Please suggest one below)
     validations:
       required: true
-      
+
   - type: input
     id: new-experience-title
     attributes:
       label: New Experience Title
-      description: If you selected "Other" above, please add an experience title here. Max 10 words.
+      description: If you selected "Other title" above, please suggest an experience title here. Max 10 words.
     validations:
       required: false 
 
