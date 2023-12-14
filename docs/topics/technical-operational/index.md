@@ -102,7 +102,7 @@ Click on a node below to read more about their experiences in the FEGA onboardin
 
   <h5>What could have gone better?</h5>
   
-  Our decision to submit BAM files, while valuable for learning, significantly complicated the demonstration and extended its duration over the entire day. Consequently, we ended up testing the technical workflow, helpdesk support, and collaboration with central EGA simultaneously, which could have been divided into distinct stages for a more manageable process. In hindsight, it might have been beneficial for all nodes to use the same script, facilitating smoother coordination and consistency across the demonstration.<br><br>
+  Our decision to submit BAM files, while valuable for learning, significantly complicated the demonstration and extended its duration over the entire day. Consequently, we ended up testing the technical workflow, helpdesk support, and collaboration with Central EGA simultaneously, which could have been divided into distinct stages for a more manageable process. In hindsight, it might have been beneficial for all nodes to use the same script, facilitating smoother coordination and consistency across the demonstration.<br><br>
 
   <h5>What did we learn?</h5>
   
@@ -114,7 +114,7 @@ Click on a node below to read more about their experiences in the FEGA onboardin
   Author(s): Krzysztof Kochel<br><br>
   <h5>What did we do?</h5>
   
-  After we had established a test environment and validated success stories our Help Desk team started to pass user journeys described in the "Federated EGA node end-to-end demonstrator". Each ambiguity or understatement was written down and sent to the appropriate person in the CEGA Help Desk case to clarify. When we had confirmed that members of Help Desk understood each step of each journey, we performed several trials with fresh accounts. This approach allowed us to detect issues which a new user may encounter.<br><br>
+  After we had established a test environment and validated success stories our Help Desk team started to pass user journeys described in the "Federated EGA node end-to-end demonstrator". Each ambiguity or understatement was written down and sent to the appropriate person in the Central EGA Helpdesk to clarify. When we had confirmed that members of Helpdesk understood each step of each journey, we performed several trials with fresh accounts. This approach allowed us to detect issues which a new user may encounter.<br><br>
 
   <h5>What went well?</h5>
   
@@ -122,11 +122,11 @@ Click on a node below to read more about their experiences in the FEGA onboardin
 
   <h5>What could have gone better?</h5>
   
-  In some cases we misunderstood explanations. However, those cases were detected and corrected by meeting participants from the EGA side.<br><br>
+  In some cases we misunderstood explanations. However, those cases were detected and corrected by meeting participants from the Central EGA side.<br><br>
 
   <h5>What did we learn?</h5>
   
-  We should point out all the edge cases and confirm with CEGA.<br><br>
+  We should point out all the edge cases and confirm with Central EGA.<br><br>
 </details>
 <details>
   <summary><strong>FEGA Sweden</strong></summary>
@@ -148,7 +148,7 @@ One general rehearsal was then performed a few days before the actual event. The
 
   <h5>What went well?</h5>
   
-  The demonstrator event went smoothly without any major issues. It would probably not have been as successful without the meticulous planning and the strong engagement from the people at the node and at central EGA. We also had much help from other nodes, like the Norwegian node that for example shared a draft of their play script.<br><br>
+  The demonstrator event went smoothly without any major issues. It would probably not have been as successful without the meticulous planning and the strong engagement from the people at the node and at Central EGA. We also had much help from other nodes, like the Norwegian node that for example shared a draft of their play script.<br><br>
 
   <h5>What could have gone better?</h5>
   
@@ -156,7 +156,7 @@ One general rehearsal was then performed a few days before the actual event. The
 
   <h5>What did we learn?</h5>
   
-  It is important to start the planning for the demonstrator well in time before the event. Take inspiration from other nodes to see how they are thinking and which solutions they have. Establish a dialogue early with central EGA - their feedback is critical for success.<br><br>
+  It is important to start the planning for the demonstrator well in time before the event. Take inspiration from other nodes to see how they are thinking and which solutions they have. Establish a dialogue early with Central EGA - their feedback is critical for success.<br><br>
 
 </details>
 <br>
@@ -171,14 +171,14 @@ One general rehearsal was then performed a few days before the actual event. The
 
   <h5>What went well?</h5>
   
-  After having most of the technical solutions in place and tested, we answered the question “which organization shall be the Service Provider” and hence a key legal entity in the operations. Fixating this single decision, made it possible to know exactly which organisation’s internal procedures and internal functions we had to relate to when adhering to GDPR, when developing many of the centrally required assets to progress towards a production-level node:
+  After having most of the technical solutions in place and tested, we answered the question "which organization shall be the Service Provider" and hence a key legal entity in the operations. Fixating this single decision, made it possible to know exactly which organisation's internal procedures and internal functions we had to relate to when adhering to GDPR, when developing many of the centrally required assets to progress towards a production-level node, including:
     <ul>
     <li>ROS</li>
     <li>DPIA</li>
     <li>DPA</li>
-    <li>SOPs (referred to in the 3 above)  </li>
+    <li>SOPs (referred to in the 3 above)</li>
   </ul>
-<br><br>
+<br>
 
   <h5>What could have gone better?</h5>
   
@@ -197,19 +197,19 @@ One general rehearsal was then performed a few days before the actual event. The
   Author(s): FEGA Finland<br><br>
   <h5>What did we do?</h5>
   
-  The Finnish node's experience differed from the Swedish node's approach. In our case, we did not proactively choose a pilot project; instead, researchers and users approached us seeking specific services critical to publishing. These services were instrumental in enabling them to publish their research papers and secure funding for their ongoing studies. These researchers faced a unique challenge: while their dataset had been consented for research use and reuse, strict restrictions prevented its transfer outside of Finland. The Finnish Federated EGA service and their integration with CSC’s services (SD Apply and SD Desktop) played a pivotal role in overcoming this obstacle. By ensuring that no additional copies of the data were created and making it accessible only via a secure virtual desktop environment, Federated EGA became natural and often the only possible solution for the researchers. While we received inquiries from numerous research projects, we faced the challenge of managing expectations due to the absence of a clear timeline for the service availability. Consequently, we had to make difficult decisions and, unfortunately, had to decline some requests to ensure the effective allocation of our resources.<br><br>
+  The Finnish node's experience differed from the Swedish node's approach. In our case, we did not proactively choose a pilot project; instead, researchers and users approached us seeking specific services critical to publishing. These services were instrumental in enabling them to publish their research papers and secure funding for their ongoing studies. These researchers faced a unique challenge: while their dataset had been consented for research use and reuse, strict restrictions prevented its transfer outside of Finland. The Finnish Federated EGA service and their integration with CSC's services (SD Apply and SD Desktop) played a pivotal role in overcoming this obstacle. By ensuring that no additional copies of the data were created and making it accessible only via a secure virtual desktop environment, Federated EGA became natural and often the only possible solution for the researchers. While we received inquiries from numerous research projects, we faced the challenge of managing expectations due to the absence of a clear timeline for the service availability. Consequently, we had to make difficult decisions and, unfortunately, had to decline some requests to ensure the effective allocation of our resources.<br><br>
 
   <h5>What went well?</h5>
   
-  During our collaboration with one of the research groups in the pilot phase, we established effective communication channels, including face-to-face meetings, which allowed us to understand their specific needs better. These meetings proved invaluable as they facilitated comprehensive testing of data uploads, a process that sometimes-required additional support next to the technical documentation. We also worked closely with the researchers to establish legal agreements with the data controller, in this case, the university hospital. This partnership was crucial in navigating the legal complexities surrounding data usage. This specific study, involving single-cell RNA sequencing of human cells, posed minimal data size constraints, with data totalling approximately 20 GB. This relatively small dataset size, coupled with the absence of intricate phenotype data, simplified the data submission process and contributed to the overall success of our collaboration.<br><br>
+  During our collaboration with one of the research groups in the pilot phase, we established effective communication channels, including face-to-face meetings, which allowed us to understand their specific needs better. These meetings proved invaluable as they facilitated comprehensive testing of data uploads, a process that sometimes required additional support next to the technical documentation. We also worked closely with the researchers to establish legal agreements with the data controller, in this case, the university hospital. This partnership was crucial in navigating the legal complexities surrounding data usage. This specific study, involving single-cell RNA sequencing of human cells, posed minimal data size constraints, with data totalling approximately 20 GB. This relatively small dataset size, coupled with the absence of intricate phenotype data, simplified the data submission process and contributed to the overall success of our collaboration.<br><br>
 
   <h5>What could have gone better?</h5>
   
-  One of the primary challenges we encountered was the lack of a clearly defined timeline or the frequent postponement of timelines throughout the pilot. This uncertainty created significant frustration for both the researchers and our team. Researchers, whose careers and funding were contingent on the pilot’s progress, found it especially challenging to understand why the process was often delayed. The absence of a predictable timeline made it difficult for us to manage expectations effectively and communicate transparently about project milestones and progress. In hindsight, having a more structured and consistent timeline could have mitigated these issues and improved the overall experience for all parties involved.<br><br>
+  One of the primary challenges we encountered was the lack of a clearly defined timeline or the frequent postponement of timelines throughout the pilot. This uncertainty created significant frustration for both the researchers and our team. Researchers, whose careers and funding were contingent on the pilot's progress, found it especially challenging to understand why the process was often delayed. The absence of a predictable timeline made it difficult for us to manage expectations effectively and communicate transparently about project milestones and progress. In hindsight, having a more structured and consistent timeline could have mitigated these issues and improved the overall experience for all parties involved.<br><br>
 
   <h5>What did we learn?</h5>
   
-  The overall experience was positive, and it served as a valuable learning opportunity for our team. However, reflecting on our experience, we recognize that there were areas where we could have improved. Better planning and coordination across the nodes, as well as with the central EGA, would have greatly benefited the pilot. Aligning timelines and needs between all parties involved, including researchers, the FEGA nodes, and the central EGA, could have led to a more streamlined and efficient process. In hindsight, leveraging the operation committee could have played a pivotal role in addressing challenges collectively and finding solutions collaboratively, aligning our efforts more effectively and ensuring smoother and more productive collaborations.<br><br>
+  The overall experience was positive, and it served as a valuable learning opportunity for our team. However, reflecting on our experience, we recognize that there were areas where we could have improved. Better planning and coordination across the nodes, as well as with the Central EGA, would have greatly benefited the pilot. Aligning timelines and needs between all parties involved, including researchers, the FEGA nodes, and the Central EGA, could have led to a more streamlined and efficient process. In hindsight, leveraging the FEGA Operations Committee could have played a pivotal role in addressing challenges collectively and finding solutions collaboratively, aligning our efforts more effectively and ensuring smoother and more productive collaborations.<br><br>
 </details>
 <details>
   <summary><strong>FEGA Sweden</strong></summary>
@@ -217,19 +217,19 @@ One general rehearsal was then performed a few days before the actual event. The
   <h5>What did we do?</h5>
   
   The Swedish node selected <a href="https://www.nature.com/articles/ejhg2017130" target="_blank">SweGen</a> as its first submission pilot project a few years before the federation was officially established. This project was chosen because staff at the Swedish ELIXIR node had been engaged in it and because the data was considered a good genomic reference for the Swedish population.<br><br>
-  To avoid relying on a single pilot dataset, the node eventually decided to engage with two additional projects. At that point, the node had gained a better understanding of what a good pilot project could look like. A few candidates were selected among projects that had expressed interest in depositing data at the node. Semi-structured interviews were then held with two candidate projects before they were officially selected. The local helpdesk team (at the time consisting of only two persons) was responsible for the selection process, but the final decision was made at FEGA node’s management level.<br><br>
+  To avoid relying on a single pilot dataset, the node eventually decided to engage with two additional projects. At that point, the node had gained a better understanding of what a good pilot project could look like. A few candidates were selected among projects that had expressed interest in depositing data at the node. Semi-structured interviews were then held with two candidate projects before they were officially selected. The local helpdesk team (at the time consisting of only two persons) was responsible for the selection process, but the final decision was made at FEGA node's management level.<br><br>
 
   <h5>What went well?</h5>
   
-  For the semi-structured interview, the local helpdesk team created a questionnaire. This allowed the node to collect necessary information before pilots were selected and made it easier to perform the evaluation. Asking the questions was in itself a good way to inform the candidates about the node’s expectations. The questionnaire included questions related to for example data availability, dataset details (e.g. submission type, file types and file sizes), legal matters (e.g. ethical permit and data processing agreement) and information about people that needed to be involved (e.g. their roles and their availability).<br><br>
+  For the semi-structured interview, the local helpdesk team created a questionnaire. This allowed the node to collect necessary information before pilots were selected and made it easier to perform the evaluation. Asking the questions was in itself a good way to inform the candidates about the node's expectations. The questionnaire included questions related to for example data availability, dataset details (e.g. submission type, file types and file sizes), legal matters (e.g. ethical permit and data processing agreement) and information about people that needed to be involved (e.g. their roles and their availability).<br><br>
 
   <h5>What could have gone better?</h5>
   
-  Having a strategy already when selecting the first pilot would probably have made the node’s work more efficient. It would also have made it easier for the node to communicate its expectations to the people that represented the candidate projects. If we had selected pilots now, we would probably have selected three pilot projects already from the start.<br><br>
+  Having a strategy already when selecting the first pilot would probably have made the node's work more efficient. It would also have made it easier for the node to communicate its expectations to the people that represented the candidate projects. If we had selected pilots now, we would probably have selected three pilot projects already from the start.<br><br>
 
   <h5>What did we learn?</h5>
   
-  Good communication of expectation is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
+  Good communication of expectations is key to success. It is also crucial that the people you engage with have the motivation, patience and enough time to dedicate to the work.<br><br>
 </details>
 <br>
 
@@ -258,11 +258,11 @@ One general rehearsal was then performed a few days before the actual event. The
   Author(s): Markus Englund<br><br>
   <h5>What did we do?</h5>
   
-  In order to process personal data in Sweden you must comply with the EU General Data Protection Regulation (GDPR). Since the Swedish FEGA node is formally hosted by Uppsala University, this means that a data processing agreement is needed whenever data comes from a different legal entity. To make it easier for Swedish researchers to submit data, the node decided to set up general data processing agreements with the country’s major universities.<br><br>
+  In order to process personal data in Sweden you must comply with the EU General Data Protection Regulation (GDPR). Since the Swedish FEGA node is formally hosted by Uppsala University, this means that a data processing agreement is needed whenever data comes from a different legal entity. To make it easier for Swedish researchers to submit data, the node decided to set up general data processing agreements with the country's major universities.<br><br>
 
   <h5>What went well?</h5>
   
-  When a researcher wants to submit data to the Swedish node, he or she generally doesn’t need to sign a separate data processing agreement with Uppsala university, which would have been needed if there were no general data processing agreements. Because the node has used the same template for all its general data processing agreements, all the agreements now basically look the same.<br><br>
+  When a researcher wants to submit data to the Swedish node, he or she generally doesn't need to sign a separate data processing agreement with Uppsala University, which would have been needed if there were no general data processing agreements. Because the node has used the same template for all its general data processing agreements, all the agreements now basically look the same.<br><br>
 
   <h5>What could have gone better?</h5>
   
@@ -270,7 +270,7 @@ One general rehearsal was then performed a few days before the actual event. The
 
   <h5>What did we learn?</h5>
   
-  General data processing agreements may require the node to develop additional operating procedures. If the data providing organization must sign a data processing agreement whenever a new dataset is deposited at the node, this will make it obvious who the data controller is for that dataset. If a general processing agreement is used instead, the node’s local helpdesk will have to verify the data controller by other means.<br><br>
+  General data processing agreements may require the node to develop additional operating procedures. If the data providing organization must sign a data processing agreement whenever a new dataset is deposited at the node, this will make it obvious who the data controller is for that dataset. If a general processing agreement is used instead, the node's local helpdesk will have to verify the data controller by other means.<br><br>
 </details>
 <br>
 
@@ -288,7 +288,7 @@ One general rehearsal was then performed a few days before the actual event. The
 
   <h5>What could have gone better?</h5>
   
-  The helpdesk team spent a lot of time on developing the content of the website. A cookie-cutter template could have made it easier for us. We were also missing graphical guidelines for how to make the website align with other nodes’ websites (but still make it visually distinguishable from https://ega-archive.org).<br><br>
+  The helpdesk team spent a lot of time on developing the content of the website. A cookie-cutter template could have made it easier for us. We were also missing graphical guidelines for how to make the website align with other nodes' websites but still make it visually distinguishable from https://ega-archive.org.<br><br>
 
   <h5>What did we learn?</h5>
   
