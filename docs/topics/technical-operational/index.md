@@ -91,7 +91,7 @@ Click on a node below to read more about their experiences in the FEGA onboardin
 #### Setting up and performing the end-to-end demonstrator
 <details>
   <summary><strong>FEGA Finland</strong></summary>
-  Author(s): FEGA Finland<br><br>
+  Author(s): Francesca Morello, Laura Kalliokoski and Heikki Lehväslaiho<br><br>
   <h5>What did we do?</h5>
   
   We planned the submission in advance and created a scripted framework to guide us throughout the process.<br><br>
@@ -194,7 +194,7 @@ One general rehearsal was then performed a few days before the actual event. The
 #### Selecting submission pilots
 <details>
   <summary><strong>FEGA Finland</strong></summary>
-  Author(s): FEGA Finland<br><br>
+  Author(s): Francesca Morello, Laura Kalliokoski and Heikki Lehväslaiho<br><br>
   <h5>What did we do?</h5>
   
   The Finnish node's experience differed from the Swedish node's approach. In our case, we did not proactively choose a pilot project; instead, researchers and users approached us seeking specific services critical to publishing. These services were instrumental in enabling them to publish their research papers and secure funding for their ongoing studies. These researchers faced a unique challenge: while their dataset had been consented for research use and reuse, strict restrictions prevented its transfer outside of Finland. The Finnish Federated EGA service and their integration with CSC's services (SD Apply and SD Desktop) played a pivotal role in overcoming this obstacle. By ensuring that no additional copies of the data were created and making it accessible only via a secure virtual desktop environment, Federated EGA became natural and often the only possible solution for the researchers. While we received inquiries from numerous research projects, we faced the challenge of managing expectations due to the absence of a clear timeline for the service availability. Consequently, we had to make difficult decisions and, unfortunately, had to decline some requests to ensure the effective allocation of our resources.<br><br>
@@ -236,7 +236,7 @@ One general rehearsal was then performed a few days before the actual event. The
 #### Establishing data processing agreements with data controllers 
 <details>
   <summary><strong>FEGA Finland</strong></summary>
-  Author(s): FEGA Finland<br><br>
+  Author(s): Francesca Morello, Laura Kalliokoski and Heikki Lehväslaiho<br><br>
   <h5>What did we do?</h5>
   
   In Finland, the Federated EGA is hosted by CSC - IT Center for Science. The landscape here is marked by a diversity of data controllers, predominantly from academic organizations, university hospitals, and biobanks. To streamline and facilitate the data submission process for researchers, we have initiated discussions with all data controllers involved to have standardized DPAs. The goal is to establish comprehensive DPAs that encompass the necessary legal requirements while simplifying the process for those wishing to deposit data with the Federated EGA. This collaborative approach aims to provide researchers with a smoother path for sharing their data within the boundaries of legal compliance.<br><br>
