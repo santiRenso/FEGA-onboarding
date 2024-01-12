@@ -1,0 +1,100 @@
+name: Add node experience
+description: ✨ Form to request a new node experience to be added to the website.
+title: "[NEW EXPERIENCE]: "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is a template to **request the addition of node experience content** to the "Learn from current node implementations" section of the [FEGA onboarding website](https://ega-archive.github.io/FEGA-onboarding/topics/technical-operational/#2-learn-from-current-node-implementations). Thank you for contributing to the Federated European Genome-phenome Archive (FEGA)!
+
+  - type: dropdown
+    id: fega-node
+    attributes:
+      label: FEGA Node
+      description: Which node is this experience for?
+      multiple: false
+      options:
+        - FEGA Finland
+        - GHGA / FEGA Germany
+        - FEGA Norway
+        - FEGA Poland
+        - FEGA Portugal
+        - FEGA Spain
+        - FEGA Sweden
+        - Other FEGA node (Please indicate your node below)
+    validations:
+      required: true
+
+  - type: input
+    id: new-fega-node
+    attributes:
+      label: New FEGA Node
+      description: If you selected "Other FEGA node" above, please indicate your node name here.
+    validations:
+      required: false 
+
+  - type: dropdown
+    id: experience-title
+    attributes:
+      label: Experience Title
+      description: Which experience do you want to supply content for?
+      multiple: false
+      options:
+        - Selecting submission pilots
+        - Establishing data processing agreements with data controllers
+        - Setting up the node’s website
+        - Setting up and performing the end-to-end demonstrator
+        - Shaping up the FEGA node to prepare for production
+        - Other title (Please suggest one below)
+    validations:
+      required: true
+
+  - type: input
+    id: new-experience-title
+    attributes:
+      label: New Experience Title
+      description: If you selected "Other title" above, please suggest an experience title here. Max 10 words.
+    validations:
+      required: false 
+
+  - type: textarea
+    id: what-did-we-do
+    attributes:
+      label: What did we do?
+      description: Please describe what you did. Max 100 words.
+      placeholder:
+    validations:
+      required: true
+    
+  - type: textarea
+    id: what-went-well
+    attributes:
+      label: What went well?
+      description: Please describe what went well during this experience. Max 100 words.
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-could-have-gone-better
+    attributes:
+      label: What could have gone better?
+      description: Please describe what could have gone better during this experience. Max 100 words.
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-did-we-learn
+    attributes:
+      label: What did we learn?
+      description: Please describe what you learned from this experience that could be helpful for other nodes. Max 100 words.
+    validations:
+      required: true
+
+  - type: textarea
+    id: authors
+    attributes:
+      label: Author(s)
+      description: Please list all authors to whom this experience should be attributed.
+    validations:
+      required: true
