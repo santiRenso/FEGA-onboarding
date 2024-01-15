@@ -1,4 +1,40 @@
 /* Custom sidebar */
+
+details {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  background-color: #f9f9f9;
+}
+
+details > summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.fega-header {
+  margin: 0;
+  font-size: 1.2em;
+  color: #0056b3; /* Adjust the color to match your theme */
+  font-weight: normal;
+}
+
+.fega-content {
+  margin-top: 1em;
+  border-top: 1px solid #eee;
+  padding-top: 1em;
+}
+
+.authors {
+  font-style: italic;
+  color: #666;
+}
+
 .wy-side-nav-search {
   background-color: #fcfcfc;
 }
