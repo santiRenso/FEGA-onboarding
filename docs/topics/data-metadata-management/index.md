@@ -37,13 +37,13 @@ Summary of best practices recommended for Federated EGA nodes:
 
 ## 2. Explore implemented standards
 
-Central EGA largely adhere to <a href="https://ega-archive.org/ga4gh" target="_blank">GA4GH standards</a>. Specific standards already implemented are summarised below:
+Central EGA largely adhere to <a href="https://ega-archive.org/about/projects-and-funders/ga4gh/" target="_blank">GA4GH standards</a>. Specific standards already implemented are summarised below:
 
 | Standard | Purpose | Specification Version | Supported Version | Implementation | Publication/Preprint |
 |:---|:---|:---|:---|:---|:---|
-| Beacon | Supports discovery of genomic variants and individuals. | v1.0.1 | v0.3 | <a href="https://github.com/ga4gh-beacon/specification-v2" target="_blank">Specification</a>, <a href="https://ega-archive.org/beacon/#/" target="_blank">Documentation</a>, <a href="https://ega-archive.org/beacon-api/" target="_blank">Endpoint</a> | N/A |
+| Beacon | Supports discovery of genomic variants and individuals. | v1.0.1 | v0.3 | <a href="https://github.com/ga4gh-beacon/specification-v2" target="_blank">Specification</a>, <a href="https://ega-archive.org/about/projects-and-funders/beacon/" target="_blank">Documentation</a>, <a href="https://ega-archive.org/beacon-api/" target="_blank">Endpoint</a> | N/A |
 | Crypt4GH | Enables direct byte-level compatible random access to encrypted genetic data stored in community standards (*e.g.* CRAM, VCF). | v1.0 | v1.0 | <a href="http://samtools.github.io/hts-specs/crypt4gh.pdf" target="_blank">Specification</a>, <a href="https://github.com/EGA-archive/crypt4gh" target="_blank">Documentation</a>, Endpoint | <a href="https://doi.org/10.1093/bioinformatics/btab087" target="_blank">DOI</a> |
-| Data Use Ontology (DUO) | Allows users to semantically tag datasets with usage restrictions so datasets can be automatically discoverable based on a researcher's authorization level or intended use. | 2021-02-23 | 2021-02-23 | <a href="https://github.com/EBISPOT/DUO" target="_blank">Specification</a>, <a href="https://ega-archive.org/data-use-conditions" target="_blank">Documentation</a>, <a href="https://www.ebi.ac.uk/ols/api/ontologies" target="_blank">Endpoint</a> | <a href="https://doi.org/10.1016/j.xgen.2021.100028" target="_blank">DOI</a> |
+| Data Use Ontology (DUO) | Allows users to semantically tag datasets with usage restrictions so datasets can be automatically discoverable based on a researcher's authorization level or intended use. | 2021-02-23 | 2021-02-23 | <a href="https://github.com/EBISPOT/DUO" target="_blank">Specification</a>, <a href="https://ega-archive.org/access/data-access-committee/data-use-ontology/" target="_blank">Documentation</a>, <a href="https://www.ebi.ac.uk/ols/api/ontologies" target="_blank">Endpoint</a> | <a href="https://doi.org/10.1016/j.xgen.2021.100028" target="_blank">DOI</a> |
 | htsget | Enables secure, efficient, and reliable access to sequencing read and variation data including specific genomic regions. | v1.3.0 | v1.0.0 | <a href="http://samtools.github.io/hts-specs/htsget.html" target="_blank">Specification</a>, <a href="https://github.com/EGA-archive/ega-download-client" target="_blank">Documentation</a>, <a href="https://ega.ebi.ac.uk:8052/elixir/tickets/tickets" target="_blank">Endpoint</a> | <a href="https://doi.org/10.1093/bioinformatics/bty492" target="_blank">DOI</a> |
 | refget | Enables access to reference sequences using an identifier derived from the sequence itself. | v1.2.6 | N/A | <a href="http://samtools.github.io/hts-specs/refget.html" target="_blank">Specification</a>, Documentation, Endpoint | <a href="https://doi.org/10.1093/bioinformatics/btab524" target="_blank">DOI</a> |
 | Researcher IDs (Passports and visas) | Specifies the collection of researchers that may access a dataset at any given time, and the credentials they must supply. | v1.0.1 | v1.0.1 | <a href="https://github.com/ga4gh-duri/ga4gh-duri.github.io/blob/master/researcher_ids/ga4gh_passport_v1.md" target="_blank">Specification</a>, <a href="https://docs.google.com/document/d/1FTzUYAfV5d2a0zoDkbY9Iy_L5NbSAnHeWnmY2NIrY8M/edit" target="_blank">Documentation</a>, <a href="https://ega.ebi.ac.uk:8443/ega-permissions/swagger-ui/index.html" target="_blank">Endpoint</a> | <a href="https://doi.org/10.1016/j.xgen.2021.100030" target="_blank">DOI</a> |
@@ -60,7 +60,7 @@ Recommended file formats for:
 ### Metadata standards
 
 The following resources represent EGA and community guidelines for submitted metadata:
-- <a href="https://web3.ega-archive.org/metadata/validation/metadata-schema/" target="_blank">EGA metadata model</a>
+- <a href="https://ega-archive.org/submission/metadata/ega-schema/" target="_blank">EGA metadata model</a>
 - General FEGA standards
   - <a href="https://youtu.be/U6ilhM-XOhU" target="_blank">Introduction to metadata</a> video produced by CSC
   - <a href="https://youtu.be/0anBkJbF7XY" target="_blank">Introduction to phenotypic data</a> video produced by CSC
