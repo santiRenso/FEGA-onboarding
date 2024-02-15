@@ -24,7 +24,7 @@ Welcome! If you are involved in data or metadata standards aspects of establishi
 
 ## 1. Learn about data security best practices
 
-Central EGA has a <a href="https://ega-archive.org/assets/files/European_Genome_phenome_Archive_Security_Overview.pdf" target="_blank">Security Strategy</a> which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the <a href="https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/2016May10_REV_SecInfrastructure.pdf" target="_blank">GA4GH Security Technology Infrastructure document</a>, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the <a href="https://www.ga4gh.org/docs/ga4ghtoolkit/data-security/Privacy-and-Security-Policy.pdf" target="_blank">GA4GH Privacy and Security Policy</a>.
+Central EGA has a <a href="https://ega-archive.org/assets/files/European_Genome_phenome_Archive_Security_Overview.pdf" target="_blank">Security Strategy</a> which defines best practices in ensuring data are stored securely. The EGA has helped develop the recommendations outlined the <a href="https://www.ga4gh.org/product/data-security-infrastructure-policy/" target="_blank">GA4GH Data Security Infrastructure Policy</a>, which defines guidelines, best practices, and standards for building and operating an infrastructure that promotes responsible data sharing in accordance with the <a href="https://www.ga4gh.org/document/privacy-and-security-policy/" target="_blank">GA4GH Privacy and Security Policy</a>.
 
 Summary of best practices recommended for Federated EGA nodes:
 
@@ -68,7 +68,7 @@ The following resources represent EGA and community guidelines for submitted met
   - <a href="https://zenodo.org/record/4893222" target="_blank">COVID-19 metadata mapping model</a> across COVID-19 studies in Federated EGA (ELIXIR-CONVERGE)
   - <a href="https://docs.google.com/spreadsheets/d/1RXrJIzHKkyB8qx5tHLQjcBioiDAOrQ3odAuqMS3pUUI/edit#gid=549383528" target="_blank">COVID-19 Host Genetics Initiative data dictionary</a>
   - <a href="https://youtu.be/AInMx8xj_Lk" target="_blank">Phenotypic metadata: the COVID-19 example</a> video produced by CSC
-  - <a href="https://youtu.be/josXa1CydxA" target="_blank">Building a metadata model for COVID-19</a> video produced by CSC
+  - <a href="https://youtu.be/wkLebyoQz54" target="_blank">Building a metadata model for COVID-19</a> video produced by CSC
 - Recommended ontologies to search for concepts and terms using the **Ontology Look-up Service** (<a href="https://www.ebi.ac.uk/ols/" target="_blank">OLS</a>)
   - **Experimental Factor Ontology** (EFO): <a href="https://www.ebi.ac.uk/ols/ontologies/efo" target="_blank">ontology record</a> at OLS; EFO <a href="https://github.com/EBISPOT/efo" target="_blank">GitHub repository</a>.
   - **Data Use Conditions** (DUO): <a href="https://www.ebi.ac.uk/ols/ontologies/duo" target="_blank">ontology record</a> at OLS; DUO <a href="https://github.com/EBISPOT/DUO" target="_blank">GitHub repository</a>.
