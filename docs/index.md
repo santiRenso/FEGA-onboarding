@@ -66,9 +66,9 @@ Now that you are connected to the Federated Human Data community, you can learn 
 
 ## What does the journey look like?
 
-Displayed below are the steps a node must take to become a full member of the Federated EGA. Based on current experiences, governance and legal development of a node (red, top-right path) usually happens in parallel with technical and operational development (yellow, bottom left path). Development converges when a node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement. You may find that your node's path differs slightly for a variety of reasons - that's ok!
+Displayed below are the steps a node must take to become a full member of the Federated EGA Network. Based on experience, governance and legal development of a node (red, top-right path) happens in parallel with technical and operational development (yellow, bottom left path) with one requirement: to receive test CEGA credentials, nodes must first have presented their use case to the ELIXIR FHD Community.  Development converges when a node is ready to present to the Federated EGA Strategic Committee and sign the Federated EGA Legal (Collaboration) Agreement.
 
-<img src="./assets/img/Path-to-becoming-FEGA-member-v1.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA Node needs to complete to join the Federated EGA." width="1200"  align="right" />
+<img src="./assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA Node needs to complete to join the Federated EGA." width="1200"  align="right" />
 
 The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
