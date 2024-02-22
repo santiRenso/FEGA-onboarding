@@ -70,11 +70,8 @@ Displayed below are the steps a node must take to become a full member of the Fe
 
 <img src="./assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA Node needs to complete to join the Federated EGA." width="1200"  align="right" />
 
-
+.
 <br/><br/>
-<br/><br/>
-
-
 The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
 You can use the <a href="https://inab.github.io/fega-mm/" target="_blank">Federated EGA Maturity Model</a> to plan and drive your own node's development. The Maturity Model is divided into different domains, sub-domains, and maturity indicators which closely align with the topics outlined in these materials. You can [read more about how to interpret and use the FEGA Maturity Model](topics/maturity-model/).
@@ -91,10 +88,6 @@ We would like to thank all contributors, especially those mentioned in the <a hr
 
 Please see our <a href="https://github.com/EGA-archive/FEGA-onboarding/blob/main/CONTRIBUTING.md" target="_blank">contributing guide</a> for information on how to contribute to the generation and maintenance of these materials. Thank you in advance for your contributions!
 
-This website is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 871075.
 
-<img src="./assets/img/eu-logo.jpeg" alt="EU flag." width="100"  align="left" />
-
-<br/><br/>
-<br/><br/>
-
+<img src="./assets/img/eu-logo.jpeg" alt="EU flag." width="50"  align="left" /> 
+  This website is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 871075.
