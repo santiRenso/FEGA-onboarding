@@ -70,7 +70,10 @@ Displayed below are the steps a node must take to become a full member of the Fe
 
 <img src="./assets/img/Path-to-becoming-FEGA-member-v2.0.svg" alt="Colored diagram with icons and descriptions of technical and governance steps an interested Federated EGA Node needs to complete to join the Federated EGA." width="1200"  align="right" />
 
+
 <br/><br/>
+<br/><br/>
+
 
 The materials on this website guide you through onboarding information from the experiences of other nodes. Explore the topics using the navigation panel on the left. Take what you find useful to apply to your own node development.
 
